@@ -1,0 +1,19 @@
+docs/plans/2026-07-05-001-feat-devin-cli-native-plugin-support-plan.md
+  s_350ae2edc84263::t_30c3eb0a3b3085 1-201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b18ec5f52dc7480f0945f2720e2497cdc2184975",
+  "prompts": {},
+  "sessions": {
+    "s_350ae2edc84263": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "",
+        "model": "unknown"
+      },
+      "human_author": "Marcel Ruhf <2291256+marcelruhf@users.noreply.github.com>"
+    }
+  }
+}
