@@ -1,0 +1,20 @@
+tests/release-metadata.test.ts
+  s_350ae2edc84263::t_5d4d6900990fb7 29,82-93,231-251,351-409,412-413,415,417
+  s_350ae2edc84263::t_963c4e67351edf 410-411,414,416,690-691
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "148bd1ab34fb49bff8ab97d8fbd926c03be0f1ad",
+  "prompts": {},
+  "sessions": {
+    "s_350ae2edc84263": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "",
+        "model": "unknown"
+      },
+      "human_author": "Marcel Ruhf <2291256+marcelruhf@users.noreply.github.com>"
+    }
+  }
+}
