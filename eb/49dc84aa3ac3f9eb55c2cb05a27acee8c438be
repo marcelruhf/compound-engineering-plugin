@@ -1,0 +1,22 @@
+README.md
+  s_350ae2edc84263::t_7f3b41c12da9f9 234-252
+  s_350ae2edc84263::t_dba0fdcb006f86 439-446
+docs/specs/devin.md
+  s_350ae2edc84263::t_65bfedd83887c9 1-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "eb49dc84aa3ac3f9eb55c2cb05a27acee8c438be",
+  "prompts": {},
+  "sessions": {
+    "s_350ae2edc84263": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "",
+        "model": "unknown"
+      },
+      "human_author": "Marcel Ruhf <2291256+marcelruhf@users.noreply.github.com>"
+    }
+  }
+}
